@@ -34,9 +34,10 @@ Small text
 [Orange picture](http://healthyliveinfo.com/wp-content/uploads/2017/10/Orange-Fruit.jpg)
 
 **Link**
+
 http://orange.no
 
-![Orange Technologies]http://orange.no
+![Orange Technologies] http://orange.no
 
 **Block quote**
 > This is a text
