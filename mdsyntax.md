@@ -31,10 +31,12 @@ Small text
     1 Item 2 a
     1 Item 2 b
 
-[Orange picture](https://www.istockphoto.com/no/photo/slice-of-orange-gm185311615-19303639)
+[Orange picture](http://healthyliveinfo.com/wp-content/uploads/2017/10/Orange-Fruit.jpg)
 
 **Link**
-[Orange Technologies]http://orange.no
+http://orange.no
+
+![Orange Technologies]http://orange.no
 
 **Block quote**
 > This is a text
