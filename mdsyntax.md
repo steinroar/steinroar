@@ -31,7 +31,7 @@ Small text
     1 Item 2 a
     1 Item 2 b
 
-![Orange picture](https://www.istockphoto.com/no/photo/slice-of-orange-gm185311615-19303639)
+[Orange picture](https://www.istockphoto.com/no/photo/slice-of-orange-gm185311615-19303639)
 
 **Link**
 [Orange Technologies]http://orange.no
@@ -39,7 +39,7 @@ Small text
 **Block quote**
 > This is a text
 
-Testing '<html>' inlines
+Testing `<html>` inlines
 
 
 ```javascript
