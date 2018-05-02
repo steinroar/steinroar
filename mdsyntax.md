@@ -39,6 +39,9 @@ http://orange.no
 
 ![Orange Technologies] http://orange.no
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 **Block quote**
 > This is a text
 
